@@ -1,0 +1,16 @@
+{
+  "name": "Ghibah Bot",
+  "description": "Bot for Ghibah",
+  "logo": "",
+  "keywords": [
+    "telegram",
+    "mirrorbot",
+    "plugin",
+    "modular",
+    "productivity"
+  ],
+  "repository": "https://github.com/ilham88/klopbot",
+  "website": "https://github.com/out386/aria-telegram-mirror-bot/blob/master/README.md",
+  "success_url": "https://github.com/out386/aria-telegram-mirror-bot",
+  "stack": "container"
+  }
