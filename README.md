@@ -1,3 +1,5 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)
+
 # GDrive Mirror Bot
 
 ![​](https://telegra.ph/file/6bbe2759c304a5b834ee2.jpg)
